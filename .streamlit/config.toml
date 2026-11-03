@@ -1,0 +1,13 @@
+# [theme]에 색을 바로 넣으면 Streamlit이 라이트 테마로 고정되므로,
+# 라이트/다크를 따로 지정해 시스템 설정(다크 모드)을 계속 따르게 한다.
+[theme.light]
+primaryColor = "#2E7D32"
+
+[theme.dark]
+primaryColor = "#66BB6A"
+
+[client]
+toolbarMode = "minimal"
+
+[browser]
+gatherUsageStats = false
